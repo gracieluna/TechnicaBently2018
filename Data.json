@@ -1,0 +1,32 @@
+{
+    "Cat": [
+        {"Image": "Cat1.jpg", "Name": "Mittens"},
+        {"Image": "Cat2.jpg", "Name": "Caramel"},
+        {"Image": "Cat3.jpg", "Name": "FatCat"},
+        {"Image": "Cat4.jpg", "Name": "Brownie"},
+        {"Image": "Cat5.jpeg", "Name": "Mouse"},
+        {"Image": "Cat6.jpeg", "Name": "Honey"},
+        {"Image": "Cat7.jpg", "Name": "Midnight"},
+        "You must have at least a $200 monthly budget."
+   ],
+"Dog": [
+        {"Image": "Dog1.jpg", "Name": "Mittens"},
+        {"Image": "Dog2.jpg", "Name": "Caramel"},
+        {"Image": "Dog3.jpg", "Name": "FatCat"},
+        {"Image": "Dog4.jpg", "Name": "Brownie"},
+        {"Image": "Dog5.jpeg", "Name": "Mouse"},
+        {"Image": "Dog6.jpeg", "Name": "Honey"},
+        {"Image": "Dog7.jpg", "Name": "Midnight"},
+        "You must have at least a $200 monthly budget."
+   ],
+"Bunny": [
+        {"Image": "Bunny1.jpg", "Name": "Mittens"},
+        {"Image": "Bunny2.jpg", "Name": "Caramel"},
+        {"Image": "Bunny3.jpg", "Name": "FatCat"},
+        {"Image": "Bunny4.jpg", "Name": "Brownie"},
+        {"Image": "Bunny5.jpeg", "Name": "Mouse"},
+        {"Image": "Bunny6.jpeg", "Name": "Honey"},
+        {"Image": "Bunny7.jpg", "Name": "Midnight"},
+        "You must have at least a $200 monthly budget."
+   ]
+}

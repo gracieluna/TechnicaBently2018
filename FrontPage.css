@@ -1,0 +1,11 @@
+.StripesHeader{
+text-align: center;
+grid-column-start: 1; grid-column-end: 4; grid-row-start: 1; grid-row-end: 3; background-color: purple; 
+}
+body{display: grid;
+text-align: center;
+font-family: sans-serif;
+grid-template-columns: 12.5% 75% 12.5%; 
+grid-template-rows: auto auto auto;}
+.content{
+grid-row-start: 3; grid-row-end: 4; grid-column-start: 2; grid-column-end: 3; }
